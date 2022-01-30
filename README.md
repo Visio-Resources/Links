@@ -1,7 +1,7 @@
 # Links related to Microsoft Visio
 ## Unofficial forum(s)
-[Visio Guy discussion forum](http://visguy.com/vgforum/index.php)
-
+[Visio Guy discussion forum](http://visguy.com/vgforum/index.php)    
+[Russian Visio forum](https://visio.getbb.ru/), look this [via Google Translate Service](https://visio-getbb-ru.translate.goog/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)
 
 ## Official MS forums 
 [MS Q&A forums chapter office-visio-itpro](https://docs.microsoft.com/en-us/answers/topics/office-visio-itpro.html)  
