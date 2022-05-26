@@ -1,7 +1,8 @@
 # Links related to Microsoft Visio 
 ## For standard users 
 ### Visio help & learning 
-[Official support](https://support.microsoft.com/en-us/visio)
+[Official support](https://support.microsoft.com/en-us/visio)    
+[Visio blog at TechCommunity](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog/label-name/Visio)
 
 ## For power users & developers
 ### SDKs
