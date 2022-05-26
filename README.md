@@ -6,14 +6,26 @@
 
 ## For power users & developers
 ### SDKs
-The Microsoft Visio Software Development Kit (SDK) contains the documentation, samples, header files, libraries, and tools that you need to develop custom solutions for Visio.   
-[Visio 2016 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=51221)   
-[Visio 2013 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=36825)   
-[Visio 2010 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=12365)   
+The Microsoft Visio Software Development Kit (SDK) contains the documentation, samples, header files, libraries, and tools that you need to develop custom solutions for Visio.
+
+<details>
+  <summary>SDK list</summary>
+  
+  [Visio 2016 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=51221) (there is no SDK for newer versions)   
+  [Visio 2013 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=36825)   
+  [Visio 2010 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=12365)   
+</details> 
 
 ### MS Visio Object model
-![Classic view](https://documentation.help/MS-Visio-Developer-Reference/OMD_online_Vis10.gif)    
-You can find this graphical representation of the model with the ability to navigate through the links of model elements [there](https://surrogate-tm.github.io/helpful/VisioObjectModel/Sources.html#classic).
+<details>
+  <summary>Classic graphical view</summary>
+
+  This representation, contains the basic elements of the MS Vizio object model is shown in the figure below.    
+  
+  ![Classic view](https://documentation.help/MS-Visio-Developer-Reference/OMD_online_Vis10.gif)   
+</details>    
+
+You can find this graphical representation of the model with the ability to navigate through the links of model elements [there](https://surrogate-tm.github.io/helpful/VisioObjectModel/Sources.html#classic).    
 
 ## Forums
 ### Unofficial forum(s)
