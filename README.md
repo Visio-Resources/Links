@@ -1,5 +1,7 @@
 # Links related to Microsoft Visio 
 ## For standard users 
+### Visio templates and diagrams  
+[Featured Visio templates and diagrams](https://support.microsoft.com/en-us/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)
 ### Visio help & learning 
 [Official support](https://support.microsoft.com/en-us/visio)    
 [Visio blog at TechCommunity](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog/label-name/Visio)
